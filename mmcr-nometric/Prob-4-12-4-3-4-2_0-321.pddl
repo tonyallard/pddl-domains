@@ -73,5 +73,4 @@
 		(at C1 L7)
 		(at C2 L8)
 	))
-	(:metric minimize (total-cost))
 )

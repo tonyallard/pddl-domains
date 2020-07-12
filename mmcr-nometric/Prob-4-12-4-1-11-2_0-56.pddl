@@ -65,5 +65,4 @@
 	(:goal
 		(at C0 L9)
 	)
-	(:metric minimize (total-cost))
 )

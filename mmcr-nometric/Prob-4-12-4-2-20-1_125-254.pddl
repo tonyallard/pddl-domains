@@ -69,5 +69,4 @@
 		(at C0 L8)
 		(at C1 L5)
 	))
-	(:metric minimize (total-cost))
 )
